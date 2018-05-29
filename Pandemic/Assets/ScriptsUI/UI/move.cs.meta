@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 800ad940892c02f4bb86ddd2037b8574
+timeCreated: 1521141085
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tweenPosStart: {instanceID: 0}
+  - tweenPosLogin: {instanceID: 0}
+  - tweenPosReg: {instanceID: 0}
+  - lobby: {fileID: 1926991510942952, guid: 9d4d7a72ac85d4d448806f61742c3533, type: 2}
+  - NewGameScreen: {fileID: 1510950760121376, guid: 81b156a9cc359594fa4a64fe1d4bfec8,
+      type: 2}
+  - LoadGameScreen: {fileID: 1815050735609304, guid: b2cade61a6b840749b2ffd7b3539a56d,
+      type: 2}
+  - CurrentRoom: {fileID: 1713408399177820, guid: d45d9e613b5b04db79703695b9696956,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

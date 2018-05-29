@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f3758f8f58fdef43803eb9be1df0608, type: 3}
+  m_Name: PhotonServerSettings
+  m_EditorClassIdentifier: 
+  AppID: 125d8460-a711-44ea-b673-13e62ac658bf
+  VoiceAppID: 
+  ChatAppID: b2ebe497-397a-4ce8-b8f3-68403969d646
+  HostType: 1
+  PreferredRegion: 0
+  EnabledRegions: -1
+  Protocol: 0
+  ServerAddress: 
+  ServerPort: 5055
+  VoiceServerPort: 5055
+  JoinLobby: 0
+  EnableLobbyStatistics: 0
+  PunLogging: 2
+  NetworkLogging: 1
+  RunInBackground: 1
+  RpcList:
+  - Chat
+  - DestroyRpc
+  - InstantiateRpc
+  - Master_AssignHands
+  - PickupItemInit
+  - PunPickup
+  - PunPickupSimple
+  - PunRespawn
+  - RequestForPickupItems
+  - RequestForPickupTimes
+  - RPC_Acknowledge
+  - RPC_AddRS
+  - RPC_AssignCard
+  - RPC_AssignMyRole
+  - RPC_CreatePlayer
+  - RPC_EndTurn
+  - RPC_LoadedGameScene
+  - RPC_LoadGameOthers
+  - RPC_LoadLevel
+  - RPC_MasterDiscardCard
+  - RPC_RemoveRS
+  - RPC_Response
+  - RPC_SetTotalActions
+  - RPC_SetupGame
+  - RPC_ShiftPosition
+  - RPC_UpdateInfoLabelText
+  - RPC_ReceiveResponse
+  DisableAutoOpenWizard: 1

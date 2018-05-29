@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: aa69f24cb0b484ea8a51365bcc25577b
+timeCreated: 1515736292
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - cityPrefab: {fileID: 1116280600394430, guid: 0174deae04b964d6ba77f55cf493a5a4,
+      type: 2}
+  - playerPrefab: {fileID: 1621296546321386, guid: ac0ab801e45e248c59e37969484abc22,
+      type: 2}
+  - redDiseaseMaterial: {fileID: 2100000, guid: eb92e87de61de45048d30f04e558f492,
+      type: 2}
+  - yellowDiseaseMaterial: {fileID: 2100000, guid: 62687d94ae03a48abae2894649517112,
+      type: 2}
+  - blueDiseaseMaterial: {fileID: 2100000, guid: a044d621b44a947b496094664d9cddef,
+      type: 2}
+  - blackDiseaseMaterial: {fileID: 2100000, guid: d6f5c6ac06aa649e7a0797a821de49b0,
+      type: 2}
+  - playerMaterial: {fileID: 2100000, guid: 07ecd012fb39e48a182b780baa7b4950, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
